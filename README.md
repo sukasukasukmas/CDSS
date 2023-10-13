@@ -1,4 +1,6 @@
 # CDSS
+## Data
+If you would like to download the data, please visit: https://drive.google.com/file/d/10345PRKcXBeYQ3UYGvHGoeT6YaViZmZN/view?usp=sharing
 ## Inspiration
 Protecting the environment has always been the goal of human’s joint effort. Greenhouse gas is one of the major impact on influencing the environment. In this project, we aimed to reduce the emission by controlling the energy use of the bulidings in New York City.
 
